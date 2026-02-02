@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (大数据不建议上传)
+*.csv
+
+# Env
+.env
